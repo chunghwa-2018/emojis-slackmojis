@@ -5,14 +5,11 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img src='https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1614045260/14409/kirbythink.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1568570821/6412/meow_popcorn.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1643514558/5570/confused_dog.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1618166709/29392/batman_pls.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1500425901/2646/allo-happy.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1612848105/12408/meow_fat.gif' width='30'>
@@ -24,9 +21,36 @@
 <img src='https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1643515350/13688/meow_dance.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1507931630/3036/gopher_dance.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1613367715/12976/fox_jump.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1542340462/4965/dabbing.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1542340470/4976/perfect.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1611852306/12254/stockrocket.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1531847457/4230/blob-cry.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1630277595/49134/bruhoof.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1614377797/15291/soccer.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1613365478/12953/meow_pink_bongo_wave.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1621350945/39802/baby-yoda_hi.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1561763719/5906/this-is-fine-fire.gif' width='30'>
+</p>
+
+<p align="center">
+<img src='https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1643514558/5570/confused_dog.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1643516080/21031/red_rose.gif' width='30'> 
+<img src='https://emojis.slackmojis.com/emojis/images/1620284485/36399/fireworks.gif' width='30'>   
+</p>
+
+<p align="center">
+<img src='https://emojis.slackmojis.com/emojis/images/1492722368/2094/whining.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1492722318/2062/angry.gif' width='30'>
-
+<img src='https://emojis.slackmojis.com/emojis/images/1526710269/3951/rock_chick.gif ' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1598815727/10343/arrow-down.gif' width='30'>
 </p>
 
 <!-- mario -->
@@ -53,11 +77,13 @@
 <img src='https://emojis.slackmojis.com/emojis/images/1574902442/7217/speed_metal.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1450447981/152/aw_yeah.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1542340470/4976/perfect.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1617668603/27681/script_code.gif' width='30'>
 <img src='https://emoji.gg/assets/emoji/4193_Kirbyhappy.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1526741134/3958/storm_trooper.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1621016661/38995/coffee.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1623631214/44901/zzz_computer.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1617692489/27845/digging.gif' width='30'>
 </p>
 
 <!-- 彩色 -->
@@ -67,10 +93,16 @@
 <img src='https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1643514770/7808/party-blob.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1630156975/49121/party_kirby.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1481054971/1409/partywizard.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1597609868/10096/laptop_parrot.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1643514600/6039/partydeploy.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1597609883/10118/pingpong_parrot.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1624778325/46116/math.gif' width='30'>
 </p>
  
 <!-- 白底 -->
 <p align="center">
+<img src='https://emojis.slackmojis.com/emojis/images/1488330086/1793/party-corgi.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1519926654/3596/pepedance.gif' height='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1471045836/777/bug.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif' width='30'>
@@ -90,6 +122,7 @@
 <img src='https://emojis.slackmojis.com/emojis/images/1471045871/912/sadsmile.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1464135001/460/fb-sad.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1471045834/772/bomb.gif' width='30'>
+<img src='https://emojis.slackmojis.com/emojis/images/1450458394/182/pikachu.gif' width='30'>
 
 </p>
 
@@ -97,38 +130,7 @@
 
 
 
-
-
-
 <p align="center">
-<img src='https://emojis.slackmojis.com/emojis/images/1616310538/22629/arrow_right.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1450458394/182/pikachu.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1621016661/38995/coffee.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif' width='30'>
-
-
-
-<img src='https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1526710269/3951/rock_chick.gif ' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1630277595/49134/bruhoof.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1614377797/15291/soccer.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1597609868/10096/laptop_parrot.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1613365478/12953/meow_pink_bongo_wave.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1621350945/39802/baby-yoda_hi.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1643514600/6039/partydeploy.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1597609883/10118/pingpong_parrot.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1624778325/46116/math.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1598815727/10343/arrow-down.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1620284485/36399/fireworks.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1643516080/21031/red_rose.gif' width='30'>
-
-
-<img src='https://emojis.slackmojis.com/emojis/images/1623631214/44901/zzz_computer.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1617692489/27845/digging.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1561763719/5906/this-is-fine-fire.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1621574915/40672/yay.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif' width='30'>
@@ -144,7 +146,6 @@
 <img src='https://emojis.slackmojis.com/emojis/images/1615277433/18503/sparkle_stars.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1613364825/12945/twinkle_stars.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1613422795/13055/heart_spin.gif' width='30'>
-
 <img src='https://emojis.slackmojis.com/emojis/images/1615403586/19011/statistics.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1614640259/15969/tetris.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1531847584/4234/blob-eyeroll.gif' width='30'>
@@ -165,9 +166,6 @@
 <img src='https://emojis.slackmojis.com/emojis/images/1616110283/22158/oh-hello.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1620544475/36980/darth_vader.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1623035305/43635/progress_bar.gif' width='30'>
-
-<img src='https://emojis.slackmojis.com/emojis/images/1531847457/4230/blob-cry.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1611852306/12254/stockrocket.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1612948491/12491/waveboi.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1583413563/7976/pepeagent.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1615426819/19573/thankyou.gif' width='30'>
@@ -176,23 +174,6 @@
 <img src='https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1492722353/2076/in_love.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1619172245/32756/charmander_shiny.gif' width='30'>
-<img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1643514098/563/ninja.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1588262851/8816/meow_bread_appear.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1614617249/15782/balloons.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1616313730/22670/hey.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1620607783/37205/kermit_pls.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1450475643/211/homer-disappear.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1471045866/898/praying.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1492722368/2094/whining.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1542340462/4965/dabbing.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1488330086/1793/party-corgi.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1613367715/12976/fox_jump.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1481054971/1409/partywizard.gif' width='30'>
-<img src='https://emojis.slackmojis.com/emojis/images/1466642201/535/celebrate.gif' width='30'>
-
-
-
 <img src='https://media.tenor.com/images/f0d9b7e6d43bea1a989dd3e6ceba6ce5/tenor.gif' width='30'>
 <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="30">
 <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30">
