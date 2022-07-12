@@ -162,15 +162,6 @@
 <img src='https://emojis.slackmojis.com/emojis/images/1613367715/12976/fox_jump.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1481054971/1409/partywizard.gif' width='30'>
 <img src='https://emojis.slackmojis.com/emojis/images/1466642201/535/celebrate.gif' width='30'>
-<img src='' width='30'>
-<img src='' width='30'>
-<img src='' width='30'>
-<img src='' width='30'>
-<img src='' width='30'>
-<img src='' width='30'>
-<img src='' width='30'>
-
-
-
-
 <img src='https://media.tenor.com/images/f0d9b7e6d43bea1a989dd3e6ceba6ce5/tenor.gif' width='30'>
+<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="30">
+<img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30">
